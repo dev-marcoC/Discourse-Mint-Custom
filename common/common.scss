@@ -1,6 +1,7 @@
 @import "variables";
 @import "sidebar";
 @import "chat";
+@import "../stylesheets/colors.scss";
 
 .d-editor-textarea-wrapper,
 .select-kit-header {
@@ -11,7 +12,7 @@
   --d-input-border-radius: var(--mint-border-radius);
 }
 body{
-  background-color: var(--body_background);
+  background-color:  var($body_background);
 }
 
 .d-header {
