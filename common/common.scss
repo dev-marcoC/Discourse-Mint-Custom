@@ -21,11 +21,16 @@ body{
     max-width: none;
     padding: 0px 60px;
   }
+  #site-logo{
+    width: 194px;
+    height: 25pX;
+  }
+  .d-header-mode .bootstrap-mode {
+    display: none;
+  }
 }
 
-.d-header-mode .bootstrap-mode {
-  color: var(--primary);
-}
+
 .alert.alert-info {
   border-radius: 10px;
 }
