@@ -23,6 +23,9 @@ body{
   }
 }
 
+.d-header-mode .bootstrap-mode {
+  color: var(--primary);
+}
 .alert.alert-info {
   border-radius: 10px;
 }
