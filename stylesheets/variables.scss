@@ -1,9 +1,9 @@
 @mixin mint-card-bg {
   background: var(--primary-very-low);
 
-  @media (prefers-color-scheme: light) {
+ /*  @media (prefers-color-scheme: light) {
     background: var(--header_background);
-  }
+  } */
 }
 
 :root {
