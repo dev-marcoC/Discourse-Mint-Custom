@@ -17,6 +17,10 @@ body{
 .d-header {
   height: 5em;
   box-shadow: none;
+  .wrap {
+    max-width: none;
+    padding: 0px 60px;
+  }
 }
 
 .alert.alert-info {
