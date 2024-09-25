@@ -37,6 +37,20 @@
       "danger": "c80001",
       "success": "009900",
       "love": "fa6c8d"
+    },
+    "Destination Earth": {
+      "primary": "dddddd",
+      "secondary": "222222",
+      "tertiary": "099dd7",
+      "quaternary": "c14924",
+      "header_background": "0D152",
+      "header_primary": "999999",
+      "highlight": "a87137",
+      "danger": "e45735",
+      "success": "1ca551",
+      "love": "fa6c8d",
+      "selected": "052e3d",
+      "hover": "ef2b89"
     }
   },
   "modifiers": {
