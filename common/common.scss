@@ -11,7 +11,7 @@
   --d-input-border-radius: var(--mint-border-radius);
 }
 body{
-  background-color: --header_background;
+  background-color: var(--header_background);
 }
 
 .d-header {
