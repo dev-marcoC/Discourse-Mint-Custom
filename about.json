@@ -1,0 +1,45 @@
+{
+  "name": "Mint",
+  "component": false,
+  "license_url": "https://github.com/discourse/discourse-mint-theme/blob/main/LICENSE",
+  "about_url": "https://meta.discourse.org/t/mint-a-modern-theme-for-discourse/202822",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "mint-light": {
+      "primary": "454545",
+      "secondary": "f6fbfc",
+      "tertiary": "4f8a7c",
+      "quaternary": "e45735",
+      "header_background": "ffffff",
+      "header_primary": "111111",
+      "highlight": "ffff4d",
+      "selected": "e3efec",
+      "hover": "e3efec",
+      "danger": "c80001",
+      "success": "009900",
+      "love": "fa6c8d"
+    },
+    "mint-dark": {
+      "primary": "e0e0e0",
+      "secondary": "2d2d2d",
+      "tertiary": "4f8a7c",
+      "quaternary": "e45735",
+      "header_background": "202020",
+      "header_primary": "e0e0e0",
+      "highlight": "b2b235",
+      "selected": "1c302b",
+      "hover": "1c302b",
+      "danger": "c80001",
+      "success": "009900",
+      "love": "fa6c8d"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
