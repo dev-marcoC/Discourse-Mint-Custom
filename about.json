@@ -11,7 +11,8 @@
   },
   "color_schemes": {
     "Destination Earth": {
-      "primary": "ffffff",
+      "body_background": "ffffff",
+      "primary": "ef2b89",
       "secondary": "222222",
       "tertiary": "099dd7",
       "quaternary": "c14924",
