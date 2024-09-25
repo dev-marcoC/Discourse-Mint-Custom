@@ -10,41 +10,13 @@
   "assets": {
   },
   "color_schemes": {
-    "mint-light": {
-      "primary": "454545",
-      "secondary": "f6fbfc",
-      "tertiary": "4f8a7c",
-      "quaternary": "e45735",
-      "header_background": "ffffff",
-      "header_primary": "0D1527",
-      "highlight": "ffff4d",
-      "selected": "e3efec",
-      "hover": "e3efec",
-      "danger": "c80001",
-      "success": "009900",
-      "love": "fa6c8d"
-    },
-    "mint-dark": {
-      "primary": "e0e0e0",
-      "secondary": "2d2d2d",
-      "tertiary": "4f8a7c",
-      "quaternary": "e45735",
-      "header_background": "202020",
-      "header_primary": "e0e0e0",
-      "highlight": "b2b235",
-      "selected": "1c302b",
-      "hover": "1c302b",
-      "danger": "c80001",
-      "success": "009900",
-      "love": "fa6c8d"
-    },
     "Destination Earth": {
       "primary": "ffffff",
       "secondary": "222222",
       "tertiary": "099dd7",
       "quaternary": "c14924",
       "header_background": "0d1527",
-      "header_primary": "ef2b89",
+      "header_primary": "099dd7",
       "highlight": "a87137",
       "danger": "e45735",
       "success": "1ca551",
