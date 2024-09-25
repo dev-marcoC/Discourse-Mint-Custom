@@ -10,6 +10,9 @@
 :root {
   --d-input-border-radius: var(--mint-border-radius);
 }
+body{
+  background-color: --header_background;
+}
 
 .d-header {
   height: 5em;
