@@ -69,7 +69,7 @@ background: var(--primary);
 }
 
 .nav-pills li a.active{
-  background: var(--tertiary);
+  background: var(--tertiary) !important;
 }
 
 .alert.alert-info {
