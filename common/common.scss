@@ -57,7 +57,8 @@ h1, p {
 
 .btn-default{
 border: none !important;
-background: var(--primary);
+background: var(--primary) !important;
+ color: $color_settings !important;
 }
 #create-topic{
   background: var(--quaternary) !important;
