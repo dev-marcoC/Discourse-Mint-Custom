@@ -70,6 +70,7 @@ background: var(--primary);
 
 .nav-pills li a.active{
   background: var(--tertiary) !important;
+  border: none !important
 }
 
 .alert.alert-info {
