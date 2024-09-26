@@ -3,6 +3,8 @@
 @import "chat";
 @import "../stylesheets/colors.scss";
 
+
+$background-image-url: '/assets/background.png';
 .d-editor-textarea-wrapper,
 .select-kit-header {
   border-radius: var(--mint-border-radius);
@@ -14,7 +16,7 @@
 body{
  /*  background-color: $body_background; */
 
-  background-image: url('/assets/background.png');
+  background-image: url(#{$background-image-url});
   background-size: cover; /* L'immagine coprirà tutto lo schermo */
   background-position: center; /* L'immagine sarà centrata */
   background-repeat: no-repeat; /* L'immagine non sarà ripetuta */
