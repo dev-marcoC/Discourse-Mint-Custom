@@ -16,9 +16,10 @@ body{
  /*  background-color: $body_background; */
 
   background-image: url($background_img);
-  background-size: cover; /* L'immagine coprirà tutto lo schermo */
-  background-position: center; /* L'immagine sarà centrata */
-  background-repeat: no-repeat; /* L'immagine non sarà ripetuta */
+  background-size: auto 100%; 
+  background-position: top center; 
+  background-repeat: no-repeat; 
+  background-attachment: scroll; 
 
 }
 
