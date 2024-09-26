@@ -23,6 +23,8 @@ body{
 
 }
 
+//New Styles
+
 .d-header {
   height: 5em;
   box-shadow: none;
@@ -38,8 +40,13 @@ body{
     display: none;
   }
 }
+.d-header-icons{
+ .d-icon{
+  color: var(--header_primary)
+ }
+}
 
-
+//End New Styles
 .alert.alert-info {
   border-radius: 10px;
 }
