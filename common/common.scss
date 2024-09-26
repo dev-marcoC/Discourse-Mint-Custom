@@ -64,10 +64,7 @@ background: var(--primary);
   color: var(--primary)!important;
   border: none !important;
   &:hover{
-    background: var(--primary)!important ;
-    color: var(--quaternary) !important;
-    box-shadow: none;
-    transition: none;
+    box-shadow: 4px 4px var(--quaternary) !important;
   }
 }
 
