@@ -55,12 +55,18 @@ h1, p {
 
 }
 
+#create-topic{
+  background-color: var(--quaternary) !important;
+  color: var(--primary)!important
+}
 
-//End New Styles
+
 .alert.alert-info {
   border-radius: 10px;
   background-color: var(--quaternary);
 }
+//End New Styles
+
 
 .custom-homepage-columns {
   margin: 2em 0 2em 0;
