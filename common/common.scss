@@ -12,7 +12,13 @@
   --d-input-border-radius: var(--mint-border-radius);
 }
 body{
-  background-color: $body_background;
+ /*  background-color: $body_background; */
+
+  background-image: url('/percorso/della/tua/immagine.jpg');
+  background-size: cover; /* L'immagine coprirà tutto lo schermo */
+  background-position: center; /* L'immagine sarà centrata */
+  background-repeat: no-repeat; /* L'immagine non sarà ripetuta */
+
 }
 
 .d-header {
