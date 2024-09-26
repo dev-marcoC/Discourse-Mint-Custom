@@ -73,6 +73,13 @@ background: var(--primary);
   border: none !important
 }
 
+.select-kit.dropdown-select-box .dropdown-select-box-header{
+  background: var(--primary) !important;
+  svg {
+    color: $color_settings !important;
+  }
+}
+
 .alert.alert-info {
   border-radius: 10px;
   background-color: var(--quaternary);
