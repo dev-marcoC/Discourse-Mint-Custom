@@ -1,5 +1,7 @@
 $color-circle-gradient: dark-light-choose(#e5f8ff, #2c2c2c);
+$primary: #ffffff;
 
 :root {
   --color-circle-gradient: #{$color-circle-gradient};
+  --primary-med-or-secondary-high: $primary
 }
