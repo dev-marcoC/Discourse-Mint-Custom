@@ -82,7 +82,8 @@ background: var(--primary);
 
 .alert.alert-info {
   border-radius: 10px;
-  background-color: var(--quaternary);
+  color: $color_on_white_screen;
+  background: var(--primary);
 }
 //End New Styles
 
