@@ -14,16 +14,16 @@
     "Destination Earth": {
       "primary": "ffffff",
       "secondary": "ffffff",
-      "tertiary": "adb5bd",
-      "quaternary": "c14924",
+      "tertiary": "ffffff",
+      "quaternary": "ffffff",
       "header_background": "0d1527",
       "header_primary": "099dd7",
-      "highlight": "a87137",
-      "danger": "e45735",
-      "success": "1ca551",
-      "love": "fa6c8d",
-      "selected": "052e3d",
-      "hover": "ef2b89"
+      "highlight": "ffffff",
+      "danger": "ffffff",
+      "success": "ffffff",
+      "love": "ffffff",
+      "selected": "ffffff",
+      "hover": "ffffff"
     }
   },
   "modifiers": {
