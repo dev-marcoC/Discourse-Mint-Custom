@@ -62,7 +62,13 @@ background: var(--primary);
 #create-topic{
   background: var(--quaternary) !important;
   color: var(--primary)!important;
-  border: none !important
+  border: none !important;
+  &:hover{
+    background: var(--primary)!important ;
+    color: var(--quaternary) !important;
+    box-shadow: none;
+    transition: none;
+  }
 }
 
 
