@@ -50,7 +50,7 @@ body{
 
 background: linear-gradient(90deg, var(--tertiary) 0%, var(--tertiary) 40%, var(--quaternary) 60%, var(--quaternary) 100%) !important;
 h1, p {
-  color: var(--primary)
+  color: var(--primary) !important
 }
 
 }
