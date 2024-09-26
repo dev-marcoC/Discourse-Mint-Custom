@@ -4,5 +4,6 @@ $primary: #ffffff;
 :root {
   --color-circle-gradient: #{$color-circle-gradient};
   --primary-med-or-secondary-high: $primary !important;
-  --primary-low-mid-or-secondary-high: $primary !important
+  --primary-low-mid-or-secondary-high: $primary !important;
+  --primary-medium: $primary !important;
 }
