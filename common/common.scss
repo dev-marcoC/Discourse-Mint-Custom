@@ -68,6 +68,9 @@ background: var(--primary);
   }
 }
 
+.nav-pills li a.active{
+  background: var(--tertiary);
+}
 
 .alert.alert-info {
   border-radius: 10px;
