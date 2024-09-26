@@ -8,6 +8,7 @@
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
+    "assets_variable": "assets/background.png"
   },
   "color_schemes": {
     "Destination Earth": {
