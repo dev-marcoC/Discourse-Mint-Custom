@@ -83,8 +83,8 @@ background: var(--primary) !important;
 
 .alert.alert-info {
   border-radius: 10px;
-  color: $color_on_white_screen;
-  background: var(--primary);
+  color: var(--primary);
+  background: $color_alert;
 }
 //End New Styles
 
