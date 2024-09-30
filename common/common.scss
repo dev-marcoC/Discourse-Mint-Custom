@@ -86,6 +86,10 @@ background: var(--primary) !important;
   color: var(--primary);
   background: $color_alert;
 }
+
+.btn-default .fa {
+  color: $color_on_white_screen !important
+}
 //End New Styles
 
 
