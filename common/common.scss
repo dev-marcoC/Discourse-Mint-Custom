@@ -77,6 +77,7 @@ body {
 .nav-pills li a.active {
   background: var(--tertiary) !important;
   border: none !important;
+  color: var(--primary) !important;
 }
 
 .select-kit.dropdown-select-box .dropdown-select-box-header {
@@ -467,10 +468,16 @@ summary.select-kit-header.single-select-header.dropdown-select-box-header {
 
 .user-menu.revamped .tabs-list .btn.active {
   svg {
-    color:  var(--secondary);
+    color: var(--secondary);
   }
 }
 
-.user-menu.revamped .tabs-list .btn .d-icon{
+.user-menu.revamped .tabs-list .btn .d-icon {
+  color: var(--primary);
+}
+
+.topic-list-item.visited .topic-list-data a.title:not(.badge-notification),
+.latest-topic-list-item.visited a.title:not(.badge-notification),
+.category-topic-link.visited a.title:not(.badge-notification) {
   color: var(--primary);
 }
