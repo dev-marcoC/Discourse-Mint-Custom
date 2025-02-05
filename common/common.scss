@@ -467,6 +467,10 @@ summary.select-kit-header.single-select-header.dropdown-select-box-header {
 
 .user-menu.revamped .tabs-list .btn.active {
   svg {
-    color: #2e2e2e;
+    color:  var(--secondary);
   }
+}
+
+.user-menu.revamped .tabs-list .btn .d-icon{
+  color: var(--primary);
 }
