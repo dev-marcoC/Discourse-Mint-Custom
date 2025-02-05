@@ -13,7 +13,7 @@
   "color_schemes": {
     "Destination Earth": {
       "primary": "ffffff",
-      "secondary": "6188ac",
+      "secondary": "ffffff",
       "tertiary": "0073e6",
       "quaternary": "EF2B89",
       "header_background": "0d1527",
@@ -23,7 +23,7 @@
       "success": "ffffff",
       "love": "ffffff",
       "selected": "ffffff",
-      "hover": "ffffff"
+      "hover": "0073e6"
     }
   },
   "modifiers": {
