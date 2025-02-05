@@ -1,11 +1,11 @@
 $color-circle-gradient: dark-light-choose(#e5f8ff, #2c2c2c);
-$primary: #ffffff;
+
 
 :root {
   --color-circle-gradient: #{$color-circle-gradient};
-  --primary-med-or-secondary-high: $primary !important;
-  --primary-low-mid-or-secondary-high: $primary !important;
-  --primary-medium: red !important;
-  --primary-high-or-secondary-low: $primary !important;
-  --primary-med-or-secondary-med: $primary !important;
+  --primary-med-or-secondary-high:  #ffffff !important;
+  --primary-low-mid-or-secondary-high:  #ffffff !important;
+  --primary-medium:  #ffffff !important;
+  --primary-high-or-secondary-low:  #ffffff !important;
+  --primary-med-or-secondary-med:  #ffffff !important;
 }
